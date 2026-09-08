@@ -54,3 +54,6 @@ segment, providing a tailored view of their data.
 
 
 [mpdf2.pdf](https://github.com/user-attachments/files/31962319/mpdf2.pdf)
+
+<img width="1157" height="650" alt="image" src="https://github.com/user-attachments/assets/5f4c0da3-ca3d-4b8c-8c6e-cdfe9b54cf04" />
+
